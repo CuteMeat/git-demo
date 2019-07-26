@@ -3,7 +3,7 @@ wall of shields
 standing strong
 on this their chosen battle field 
 
-New string
-Second new string
-More content 
-_____________________________
+New line
+But it's too new line
+And now 
+It also new line
