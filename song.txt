@@ -7,3 +7,8 @@ New line
 But it's too new line
 And now 
 It also new line
+
+New line,
+But it's too new line
+And now,
+It also new line
